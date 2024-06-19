@@ -1,0 +1,21 @@
+
+   {"snehal" : 
+        {
+            "name": "snehal",
+            "email" : "snehal@gmail.com",
+            "password" : "snehal",
+            "day" : "8",
+            "month" : "August",
+            "year" : "1999",
+            "fname" : "snehal",
+            "lname" : "kamble",
+            "company" : "bajaj",
+            "address1" : "nagpur",
+            "address2" : "mumbai",
+            "country" : "India",
+            "state" : "maharashtra",
+            "city" : "nagpur",
+            "zipcode" : "145698",
+            "mobno" : "7458962555"
+        }
+    }
